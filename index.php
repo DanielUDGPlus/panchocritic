@@ -38,10 +38,10 @@
     </main>
 
     <footer>
-      <p>Curso: Desarrollo Web</p>
-      <p>Nombre: Tu Nombre Completo</p> <!-- Reemplaza con tu nombre -->
-      <p>Código: 123456789</p> <!-- Reemplaza con tu código -->
-      <p>Email: tunombre@ejemplo.com</p> <!-- Reemplaza con tu correo -->
+      <p>Curso: Conceptualización de servicios en la nube</p>
+      <p>Nombre: Alexis Daniel Moran Ramos</p> 
+      <p>Código: 221802344</p> 
+      <p>Email: alexis.moran0234@alumnos.udg.mx</p> 
     </footer>
 
   </div>
